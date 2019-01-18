@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="itoisyodo.github.io" resolutions="1x" timestamp="1547791571993">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1547819774143">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
-    <file name="index.css" crc="4020009950" ref="index"/>
-    <file name="iefonts_index.css" crc="305412909" ref="index"/>
+    <file name="index.css" crc="308058176" ref="index"/>
+    <file name="iefonts_index.css" crc="4166735838" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,7 +15,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="центральная.jpg" crc="341741126" seo="true" ref="index">
+    <file name="центральная.jpg" crc="3847854037" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="айкидо.jpg" crc="3781970656" seo="true" ref="index">
@@ -37,5 +37,5 @@
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1037-r.png" crc="4263444915" ref="index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1037-a.png" crc="45983777" ref="index"/>
   </folder>
-  <file name="index.html" crc="197398657" seo="true" mt="1547789086477" redirect="true"/>
+  <file name="index.html" crc="524375787" seo="true" mt="1547819654200" redirect="true"/>
 </manifest>
