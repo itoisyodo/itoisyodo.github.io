@@ -1,0 +1,41 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="itoisyodo.github.io" resolutions="1x" timestamp="1547791571993">
+  <folder name="css">
+    <file name="site_global.css" crc="509834339"/>
+    <file name="index.css" crc="4020009950" ref="index"/>
+    <file name="iefonts_index.css" crc="305412909" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="центральная.jpg" crc="341741126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="айкидо.jpg" crc="3781970656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самооборона.jpg" crc="3759933371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="снимок экрана от 2019-01-08 14-49-22.jpg" crc="4244701770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ktjljezgc-u765.png" crc="460265617" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u922-r.png" crc="4263444915" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u922-a.png" crc="45983777" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u997-r.png" crc="4263444915" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u997-a.png" crc="45983777" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1018-r.png" crc="4263444915" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1018-a.png" crc="45983777" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1037-r.png" crc="4263444915" ref="index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1037-a.png" crc="45983777" ref="index"/>
+  </folder>
+  <file name="index.html" crc="197398657" seo="true" mt="1547789086477" redirect="true"/>
+</manifest>
