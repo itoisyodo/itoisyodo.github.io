@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548049155225">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548049749680">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
-    <file name="index.css" crc="60807711" ref="index"/>
+    <file name="index.css" crc="3833175330" ref="index"/>
     <file name="iefonts_index.css" crc="327225489" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -66,10 +66,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3920669955" ref="phone>index"/>
+      <file name="index.css" crc="310271897" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4108087894" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="91021966" seo="true" mt="1548048842922" redirect="true"/>
+    <file name="index.html" crc="4116970490" seo="true" mt="1548049706263" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4052073066" seo="true" mt="1548049086658" redirect="true"/>
+  <file name="index.html" crc="300279172" seo="true" mt="1548049086658" redirect="true"/>
 </manifest>
