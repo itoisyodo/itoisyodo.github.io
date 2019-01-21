@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1547823307971">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548049155225">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
-    <file name="index.css" crc="4266631243" ref="index"/>
+    <file name="index.css" crc="60807711" ref="index"/>
     <file name="iefonts_index.css" crc="327225489" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -10,11 +10,32 @@
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
     <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index"/>
     <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="центральная198x246.jpg" crc="158359411" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="айкидо208x274.jpg" crc="4096743338" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="самооборона156x157.jpg" crc="4058220897" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="снимок экрана от 2019-01-08 14-49-22376x229.jpg" crc="3888004485" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ktjljezgc-u1537.png" crc="4076918880" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-r.png" crc="4263444915" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-a.png" crc="45983777" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1567-r.png" crc="4263444915" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1567-a.png" crc="45983777" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1553-r.png" crc="4263444915" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1553-a.png" crc="45983777" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1546-r.png" crc="4263444915" ref="phone>index"/>
+    <file name="a57aec2bec994e2005b0b046b8954e1c-u1546-a.png" crc="45983777" ref="phone>index"/>
     <file name="центральная.jpg" crc="3847854037" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -41,13 +62,14 @@
     <folder name="css">
       <file name="index.css" crc="210342722" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3906602486" seo="true" mt="1547823220618" redirect="false"/>
+    <file name="index.html" crc="3976617827" seo="true" mt="1547823220618" redirect="false"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3810098001" ref="phone>index"/>
+      <file name="index.css" crc="3920669955" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4108087894" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4178548495" seo="true" mt="1547823220855" redirect="false"/>
+    <file name="index.html" crc="91021966" seo="true" mt="1548048842922" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4070047810" seo="true" mt="1547823220809" redirect="true"/>
+  <file name="index.html" crc="4052073066" seo="true" mt="1548049086658" redirect="true"/>
 </manifest>
