@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548049749680">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548055640998">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
     <file name="index.css" crc="3833175330" ref="index"/>
@@ -9,25 +9,25 @@
     <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
     <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
   </folder>
   <folder name="images">
-    <file name="центральная198x246.jpg" crc="158359411" seo="true" ref="phone>index">
+    <file name="центральная204x252.jpg" crc="4057549628" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="айкидо208x274.jpg" crc="4096743338" seo="true" ref="phone>index">
+    <file name="айкидо214x282.jpg" crc="533841083" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="самооборона156x157.jpg" crc="4058220897" seo="true" ref="phone>index">
+    <file name="самооборона161x161.jpg" crc="4004242454" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="снимок экрана от 2019-01-08 14-49-22376x229.jpg" crc="3888004485" seo="true" ref="phone>index">
+    <file name="снимок экрана от 2019-01-08 14-49-22392x238.jpg" crc="4186539812" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ktjljezgc-u1537.png" crc="4076918880" ref="phone>index"/>
+    <file name="ktjljezgc-u1537.png" crc="393365936" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-r.png" crc="4263444915" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-a.png" crc="45983777" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1567-r.png" crc="4263444915" ref="phone>index"/>
@@ -66,10 +66,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="310271897" ref="phone>index"/>
+      <file name="index.css" crc="177390908" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4108087894" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4116970490" seo="true" mt="1548049706263" redirect="true"/>
+    <file name="index.html" crc="17275414" seo="true" mt="1548055426309" redirect="true"/>
   </folder>
-  <file name="index.html" crc="300279172" seo="true" mt="1548049086658" redirect="true"/>
+  <file name="index.html" crc="227538732" seo="true" mt="1548049086658" redirect="true"/>
 </manifest>
