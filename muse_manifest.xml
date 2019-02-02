@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1549119019118">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1549119347800">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
-    <file name="index.css" crc="343296003" ref="index"/>
+    <file name="index.css" crc="3951941215" ref="index"/>
     <file name="iefonts_index.css" crc="450569685" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -71,5 +71,5 @@
     </folder>
     <file name="index.html" crc="3919606191" seo="true" mt="1548951095483" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3941670427" seo="true" mt="1549118901180" redirect="true"/>
+  <file name="index.html" crc="4235059095" seo="true" mt="1549119319691" redirect="true"/>
 </manifest>
