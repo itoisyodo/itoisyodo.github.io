@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1548950046940">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itoisyodo.github.io" resolutions="1x" timestamp="1549119019118">
   <folder name="css">
     <file name="site_global.css" crc="509834339"/>
-    <file name="index.css" crc="3906688109" ref="index"/>
+    <file name="index.css" crc="343296003" ref="index"/>
     <file name="iefonts_index.css" crc="450569685" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -15,19 +15,19 @@
     <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
   </folder>
   <folder name="images">
-    <file name="центральная185x230.jpg" crc="4251235941" seo="true" ref="phone>index">
+    <file name="центральная220x273.jpg" crc="453873816" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="айкидо180x237.jpg" crc="279538171" seo="true" ref="phone>index">
+    <file name="айкидо214x282.jpg" crc="533841083" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="самооборона140x140.jpg" crc="498759900" seo="true" ref="phone>index">
+    <file name="самооборона166x167.jpg" crc="480970355" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="снимок экрана от 2019-01-08 14-49-22330x200.jpg" crc="4033236564" seo="true" ref="phone>index">
+    <file name="снимок экрана от 2019-01-08 14-49-22392x238.jpg" crc="4186539812" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ktjljezgc-u1537.png" crc="417608217" ref="phone>index"/>
+    <file name="ktjljezgc-u1537.png" crc="177629129" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-r.png" crc="4263444915" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1559-a.png" crc="45983777" ref="phone>index"/>
     <file name="a57aec2bec994e2005b0b046b8954e1c-u1567-r.png" crc="4263444915" ref="phone>index"/>
@@ -66,10 +66,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3772424351" ref="phone>index"/>
+      <file name="index.css" crc="430418901" ref="phone>index"/>
       <file name="iefonts_index.css" crc="516332593" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4042037458" seo="true" mt="1548949430229" redirect="true"/>
+    <file name="index.html" crc="3919606191" seo="true" mt="1548951095483" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4180574757" seo="true" mt="1548949939385" redirect="true"/>
+  <file name="index.html" crc="3941670427" seo="true" mt="1549118901180" redirect="true"/>
 </manifest>
